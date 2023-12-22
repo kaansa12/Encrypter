@@ -1,0 +1,16 @@
+C:\Users\Kaan\source\repos\Encriypter\Encriypter\bin\Debug\net8.0-windows\Encriypter.exe
+C:\Users\Kaan\source\repos\Encriypter\Encriypter\bin\Debug\net8.0-windows\Encriypter.deps.json
+C:\Users\Kaan\source\repos\Encriypter\Encriypter\bin\Debug\net8.0-windows\Encriypter.runtimeconfig.json
+C:\Users\Kaan\source\repos\Encriypter\Encriypter\bin\Debug\net8.0-windows\Encriypter.dll
+C:\Users\Kaan\source\repos\Encriypter\Encriypter\bin\Debug\net8.0-windows\Encriypter.pdb
+C:\Users\Kaan\source\repos\Encriypter\Encriypter\obj\Debug\net8.0-windows\Encriypter.Form1.resources
+C:\Users\Kaan\source\repos\Encriypter\Encriypter\obj\Debug\net8.0-windows\Encriypter.csproj.GenerateResource.cache
+C:\Users\Kaan\source\repos\Encriypter\Encriypter\obj\Debug\net8.0-windows\Encriypter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan\source\repos\Encriypter\Encriypter\obj\Debug\net8.0-windows\Encriypter.AssemblyInfoInputs.cache
+C:\Users\Kaan\source\repos\Encriypter\Encriypter\obj\Debug\net8.0-windows\Encriypter.AssemblyInfo.cs
+C:\Users\Kaan\source\repos\Encriypter\Encriypter\obj\Debug\net8.0-windows\Encriypter.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\source\repos\Encriypter\Encriypter\obj\Debug\net8.0-windows\Encriypter.dll
+C:\Users\Kaan\source\repos\Encriypter\Encriypter\obj\Debug\net8.0-windows\refint\Encriypter.dll
+C:\Users\Kaan\source\repos\Encriypter\Encriypter\obj\Debug\net8.0-windows\Encriypter.pdb
+C:\Users\Kaan\source\repos\Encriypter\Encriypter\obj\Debug\net8.0-windows\Encriypter.genruntimeconfig.cache
+C:\Users\Kaan\source\repos\Encriypter\Encriypter\obj\Debug\net8.0-windows\ref\Encriypter.dll
